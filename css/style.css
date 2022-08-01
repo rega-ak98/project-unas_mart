@@ -1,0 +1,95 @@
+.warna1 {
+    background-color: #B4FEE7;
+}
+
+.warna2{
+    background-color: #13abad;
+}
+
+.warna3{
+    background-color: #8158b8;
+}
+
+.warna3:hover{
+    background-color: #ab80e4;
+}
+
+.banner{
+    height: 80vh;
+    background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../images/banner.jpg') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.highlight-kategori{
+    height: 250px;
+}
+
+.kategori-atk{
+    background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../images/atk.jpg') ;
+    background-size: cover;
+    background-position: center;
+}
+
+.kategori-makanringan{
+    background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../images/snack.jpg') ;
+    background-size: cover;
+    background-position: center;
+}
+
+.kategori-makanberat{
+    background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../images/rice.jpg') ;
+    background-size: cover;
+    background-position: center;
+}
+
+.no-decoration{
+    text-decoration: none;
+    color: white;
+}
+
+.no-decoration:hover{
+    color: #25c9cc;
+}
+
+.text-harga{
+    font-size: 20px;
+    color: #13abad;
+}
+
+.image-box{
+    height: 250px;
+}
+
+.image-box img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.content-footer{
+    background-color:rgba(0,0,0,0.7) ;
+}
+
+.banner-produk{
+    height: 45vh;
+    background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../images/banner.jpg') ;
+    background-size: cover;
+}
+
+.banner-detail{
+    height: 30vh;
+    background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../images/banner.jpg') ;
+    background-size: cover;
+}
+
+.image-about{
+    height: 300px;
+}
+
+.image-about img{
+    height: 100%;
+    width: 100%;
+    
+}
